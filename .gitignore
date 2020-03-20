@@ -3,3 +3,5 @@
 /env
 db.sqlite3
 __init__.py
+/myapp/__pycache__
+/taskproj/__pycache__
